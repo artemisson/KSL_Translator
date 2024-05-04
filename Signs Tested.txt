@@ -1,0 +1,4 @@
+fever		+
+headache	+
+hello		+
+toothache	+

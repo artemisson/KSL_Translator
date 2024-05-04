@@ -1,0 +1,27 @@
+Python 3.10.6 ++=
+scikit-learn +
+matplotlib +
+opencv-python +
+holistics +
+virtualenv +
+mp +
+mediapipe +
+keras +
+keras.util + 
+keras.utilities +
+keras.models +
+keras layers +
+keras callbacks +
+tensorflow + 
+os-sys **
+categorical +
+requests *
+pyttsx3*
+pyaudio*
+SpeechRecognition*
+
+
+
+https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+DISM /Online /Enable-Feature /FeatureNDISM /Online /Enable-Feature /FeatureName:"NetFx3"ame:"NetFx3"
+
