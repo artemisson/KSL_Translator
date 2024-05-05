@@ -1,4 +1,5 @@
 -The program was coded purely in python.
+
 -Make sure to extract the contents of KSL_Data.rar in the main file first before running anything.
 
 -Install all the following dependencies in order for the code to run : 
